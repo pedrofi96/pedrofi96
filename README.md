@@ -1,14 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Filipe
-====================================================================================================================================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=000000&multiline=true&random=false&width=435&height=70&lines=Bom+dia%2C+eu+sou+Pedro+Filipe;Web+Developper" alt="Typing SVG" /></a>
 
-Web Developper
---------------
-
-* 🌍  I'm based in Salvador-BA
-* 🖥️  See my portfolio at [Portifolio](http://pedrofilipe.com.br)
-* ✉️  You can contact me at [pf-baptista@hotmail.com](mailto:pf-baptista@hotmail.com)
-* 🧠  I'm learning No momento estou focando meus estudos em React.JS
-* ⚡  Conheci gitHub primeiro por causa de pokémon
+* 🌍  Moro em Salvador-BA
+* 🖥️  Clique aqui para ver meu [Portifolio](http://pedrofilipe.com.br)
+* ✉️  Entre em contato comigo pelo e-mail: [pf-baptista@hotmail.com](mailto:pf-baptista@hotmail.com)
+* 🧠  No momento estou focando meus estudos em React.JS
+* ⚡  Fun Fact: Conheci GitHub por causa de pokémon, antes de aprender a programar qualquer coisa.
 
 ### Skills
 
@@ -22,7 +18,6 @@ Web Developper
 
 <p align="left"> <a href="https://www.github.com/pedrofi96" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/pedro_filipetb/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pedro-filipe-4a4275248/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/PedroFilipeTB" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@pedro_filipetb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
