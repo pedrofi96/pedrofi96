@@ -22,6 +22,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pedrofi96"><img src="https://github-readme-stats.vercel.app/api?username=pedrofi96&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="pedrofi96's GitHub stats" /></a>
+<a href="http://www.github.com/pedrofi96"><img src="https://github-readme-stats.vercel.app/api?username=pedrofi96&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="pedrofi96's GitHub stats" /></a>
 
-<a href="https://github.com/pedrofi96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofi96&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/pedrofi96" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofi96&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
