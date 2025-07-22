@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=000000&multiline=true&random=false&width=435&height=70&lines=Bom+dia%2C+eu+sou+Pedro+Filipe;Web+Developper" alt="Typing SVG" /></a>
 
-* 🌍  Moro em Salvador-BA
-* 🌐  Clique aqui para ver meu [Portifolio](http://pedrofilipe.com.br)
+
 * 💻  Estagiário na SEMIT (Secretaria Municipal de Inovação e Tecnologia)
 * ✉️  Entre em contato comigo pelo e-mail: [pf-baptista@hotmail.com](mailto:pf-baptista@hotmail.com)
 * 🧠  No momento estou focando meus estudos em React.JS
